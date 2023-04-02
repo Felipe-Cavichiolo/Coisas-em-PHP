@@ -1,2 +1,3 @@
 # Coisas-em-PHP
-Coisas que fiz com PHP
+
+Fiz essas coisas para treinar meu PHP
